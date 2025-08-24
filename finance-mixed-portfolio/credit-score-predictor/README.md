@@ -19,4 +19,4 @@ ML 모델: scikit-learn (RandomForest, Logistic Regression)
 
 기술: Python (scikit-learn), Flask, SQLite
 
-포인트: 실제 금융권에서 많이 활용되는 "신용 리스크 관리"를 체험형으로 구현.
+포인트: 실제 금융권에서 많이 활용되는 "신용 리스크 관리"를 체험형으로 구현. 추후 금융 전략을 접목하고, 실제 데이터를 반영해 발전 가능. 
